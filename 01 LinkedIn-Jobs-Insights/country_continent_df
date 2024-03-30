@@ -1,0 +1,199 @@
+,timezones,code,continent,name,capital
+0,['Aisa/China'],CN,Asia,China,Beijing
+1,['Europe/Netherlands'],NL,Europe,Netherlands,Amsterdam
+2,['Europe/Czechia'],CZ,Europe,Czechia,Prague
+3,['Europe/Ireland'],IE,Europe,Ireland,Dublin
+4,['Europe/Gibraltar'],GI,Europe,Gibraltar,Gibraltar City
+5,['Europe/Andorra'],AD,Europe,Andorra,Andorra la Vella
+6,['Asia/Kabul'],AF,Asia,Afghanistan,Kabul
+7,['America/Antigua'],AG,North America,Antigua and Barbuda,St. John's
+8,['Europe/Tirane'],AL,Europe,Albania,Tirana
+9,['Asia/Yerevan'],AM,Asia,Armenia,Yerevan
+10,['Africa/Luanda'],AO,Africa,Angola,Luanda
+11,"['America/Argentina/Buenos_Aires', 'America/Argentina/Cordoba', 'America/Argentina/Jujuy', 'America/Argentina/Tucuman', 'America/Argentina/Catamarca', 'America/Argentina/La_Rioja', 'America/Argentina/San_Juan', 'America/Argentina/Mendoza', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Ushuaia']",AR,South America,Argentina,Buenos Aires
+12,['Europe/Vienna'],AT,Europe,Austria,Vienna
+13,"['Australia/Lord_Howe', 'Australia/Hobart', 'Australia/Currie', 'Australia/Melbourne', 'Australia/Sydney', 'Australia/Broken_Hill', 'Australia/Brisbane', 'Australia/Lindeman', 'Australia/Adelaide', 'Australia/Darwin', 'Australia/Perth']",AU,Oceania,Australia,Canberra
+14,['Asia/Baku'],AZ,Asia,Azerbaijan,Baku
+15,['America/Barbados'],BB,North America,Barbados,Bridgetown
+16,['Asia/Dhaka'],BD,Asia,Bangladesh,Dhaka
+17,['Europe/Brussels'],BE,Europe,Belgium,Brussels
+18,['Africa/Ouagadougou'],BF,Africa,Burkina Faso,Ouagadougou
+19,['Europe/Sofia'],BG,Europe,Bulgaria,Sofia
+20,['Asia/Bahrain'],BH,Asia,Bahrain,Manama
+21,['Africa/Bujumbura'],BI,Africa,Burundi,Bujumbura
+22,['Africa/Porto-Novo'],BJ,Africa,Benin,Porto-Novo
+23,['Asia/Brunei'],BN,Asia,Brunei Darussalam,Bandar Seri Begawan
+24,['America/La_Paz'],BO,South America,Bolivia,Sucre
+25,"['America/Noronha', 'America/Belem', 'America/Fortaleza', 'America/Recife', 'America/Araguaina', 'America/Maceio', 'America/Bahia', 'America/Sao_Paulo', 'America/Campo_Grande', 'America/Cuiaba', 'America/Porto_Velho', 'America/Boa_Vista', 'America/Manaus', 'America/Eirunepe', 'America/Rio_Branco']",BR,South America,Brazil,BrasÃ­lia
+26,['America/Nassau'],BS,North America,Bahamas,Nassau
+27,['Asia/Thimphu'],BT,Asia,Bhutan,Thimphu
+28,['Africa/Gaborone'],BW,Africa,Botswana,Gaborone
+29,['Europe/Minsk'],BY,Europe,Belarus,Minsk
+30,['America/Belize'],BZ,North America,Belize,Belmopan
+31,"['America/St_Johns', 'America/Halifax', 'America/Glace_Bay', 'America/Moncton', 'America/Goose_Bay', 'America/Blanc-Sablon', 'America/Montreal', 'America/Toronto', 'America/Nipigon', 'America/Thunder_Bay', 'America/Pangnirtung', 'America/Iqaluit', 'America/Atikokan', 'America/Rankin_Inlet', 'America/Winnipeg', 'America/Rainy_River', 'America/Cambridge_Bay', 'America/Regina', 'America/Swift_Current', 'America/Edmonton', 'America/Yellowknife', 'America/Inuvik', 'America/Dawson_Creek', 'America/Vancouver', 'America/Whitehorse', 'America/Dawson']",CA,North America,Canada,Ottawa
+32,"['Africa/Kinshasa', 'Africa/Lubumbashi']",CD,Africa,Democratic Republic of the Congo,Kinshasa
+33,['Africa/Brazzaville'],CG,Africa,Republic of the Congo,Brazzaville
+34,['Africa/Abidjan'],CI,Africa,CÃ´te d'Ivoire,Yamoussoukro
+35,"['America/Santiago', 'Pacific/Easter']",CL,South America,Chile,Santiago
+36,['Africa/Douala'],CM,Africa,Cameroon,YaoundÃ©
+37,"['Asia/Shanghai', 'Asia/Harbin', 'Asia/Chongqing', 'Asia/Urumqi', 'Asia/Kashgar']",CN,Asia,People's Republic of China,Beijing
+38,['America/Bogota'],CO,South America,Colombia,BogotÃ¡
+39,['America/Costa_Rica'],CR,North America,Costa Rica,San JosÃ©
+40,['America/Havana'],CU,North America,Cuba,Havana
+41,['Atlantic/Cape_Verde'],CV,Africa,Cape Verde,Praia
+42,['Asia/Nicosia'],CY,Asia,Cyprus,Nicosia
+43,['Europe/Prague'],CZ,Europe,Czech Republic,Prague
+44,['Europe/Berlin'],DE,Europe,Germany,Berlin
+45,['Africa/Djibouti'],DJ,Africa,Djibouti,Djibouti City
+46,['Europe/Copenhagen'],DK,Europe,Denmark,Copenhagen
+47,['America/Dominica'],DM,North America,Dominica,Roseau
+48,['America/Santo_Domingo'],DO,North America,Dominican Republic,Santo Domingo
+49,"['America/Guayaquil', 'Pacific/Galapagos']",EC,South America,Ecuador,Quito
+50,['Europe/Tallinn'],EE,Europe,Estonia,Tallinn
+51,['Africa/Cairo'],EG,Africa,Egypt,Cairo
+52,['Africa/Asmera'],ER,Africa,Eritrea,Asmara
+53,['Africa/Addis_Ababa'],ET,Africa,Ethiopia,Addis Ababa
+54,['Europe/Helsinki'],FI,Europe,Finland,Helsinki
+55,['Pacific/Fiji'],FJ,Oceania,Fiji,Suva
+56,['Europe/Paris'],FR,Europe,France,Paris
+57,['Africa/Libreville'],GA,Africa,Gabon,Libreville
+58,['Asia/Tbilisi'],GE,Asia,Georgia,Tbilisi
+59,['Africa/Accra'],GH,Africa,Ghana,Accra
+60,['Africa/Banjul'],GM,Africa,The Gambia,Banjul
+61,['Africa/Conakry'],GN,Africa,Guinea,Conakry
+62,['Europe/Athens'],GR,Europe,Greece,Athens
+63,['America/Guatemala'],GT,North America,Guatemala,Guatemala City
+64,['America/Guatemala'],GT,North America,Haiti,Port-au-Prince
+65,['Africa/Bissau'],GW,Africa,Guinea-Bissau,Bissau
+66,['America/Guyana'],GY,South America,Guyana,Georgetown
+67,['America/Tegucigalpa'],HN,North America,Honduras,Tegucigalpa
+68,['Europe/Budapest'],HU,Europe,Hungary,Budapest
+69,"['Asia/Jakarta', 'Asia/Pontianak', 'Asia/Makassar', 'Asia/Jayapura']",ID,Asia,Indonesia,Jakarta
+70,['Europe/Dublin'],IE,Europe,Republic of Ireland,Dublin
+71,['Asia/Jerusalem'],IL,Asia,Israel,Jerusalem
+72,['Asia/Calcutta'],IN,Asia,India,New Delhi
+73,['Asia/Baghdad'],IQ,Asia,Iraq,Baghdad
+74,['Asia/Tehran'],IR,Asia,Iran,Tehran
+75,['Atlantic/Reykjavik'],IS,Europe,Iceland,ReykjavÃ­k
+76,['Europe/Rome'],IT,Europe,Italy,Rome
+77,['America/Jamaica'],JM,North America,Jamaica,Kingston
+78,['Asia/Amman'],JO,Asia,Jordan,Amman
+79,['Asia/Tokyo'],JP,Asia,Japan,Tokyo
+80,['Africa/Nairobi'],KE,Africa,Kenya,Nairobi
+81,['Asia/Bishkek'],KG,Asia,Kyrgyzstan,Bishkek
+82,"['Pacific/Tarawa', 'Pacific/Enderbury', 'Pacific/Kiritimati']",KI,Oceania,Kiribati,Tarawa
+83,['Asia/Pyongyang'],KP,Asia,North Korea,Pyongyang
+84,['Asia/Seoul'],KR,Asia,South Korea,Seoul
+85,['Asia/Kuwait'],KW,Asia,Kuwait,Kuwait City
+86,['Asia/Beirut'],LB,Asia,Lebanon,Beirut
+87,['Europe/Vaduz'],LI,Europe,Liechtenstein,Vaduz
+88,['Africa/Monrovia'],LR,Africa,Liberia,Monrovia
+89,['Africa/Maseru'],LS,Africa,Lesotho,Maseru
+90,['Europe/Vilnius'],LT,Europe,Lithuania,Vilnius
+91,['Europe/Luxembourg'],LU,Europe,Luxembourg,Luxembourg City
+92,['Europe/Riga'],LV,Europe,Latvia,Riga
+93,['Africa/Tripoli'],LY,Africa,Libya,Tripoli
+94,['Indian/Antananarivo'],MG,Africa,Madagascar,Antananarivo
+95,"['Pacific/Majuro', 'Pacific/Kwajalein']",MH,Oceania,Marshall Islands,Majuro
+96,['Europe/Skopje'],MK,Europe,Macedonia,Skopje
+97,['Africa/Bamako'],ML,Africa,Mali,Bamako
+98,['Asia/Rangoon'],MM,Asia,Myanmar,Naypyidaw
+99,"['Asia/Ulaanbaatar', 'Asia/Hovd', 'Asia/Choibalsan']",MN,Asia,Mongolia,Ulaanbaatar
+100,['Africa/Nouakchott'],MR,Africa,Mauritania,Nouakchott
+101,['Europe/Malta'],MT,Europe,Malta,Valletta
+102,['Indian/Mauritius'],MU,Africa,Mauritius,Port Louis
+103,['Indian/Maldives'],MV,Asia,Maldives,MalÃ©
+104,['Africa/Blantyre'],MW,Africa,Malawi,Lilongwe
+105,"['America/Mexico_City', 'America/Cancun', 'America/Merida', 'America/Monterrey', 'America/Mazatlan', 'America/Chihuahua', 'America/Hermosillo', 'America/Tijuana']",MX,North America,Mexico,Mexico City
+106,"['Asia/Kuala_Lumpur', 'Asia/Kuching']",MY,Asia,Malaysia,Kuala Lumpur
+107,['Africa/Maputo'],MZ,Africa,Mozambique,Maputo
+108,['Africa/Windhoek'],NA,Africa,Namibia,Windhoek
+109,['Africa/Niamey'],NE,Africa,Niger,Niamey
+110,['Africa/Lagos'],NG,Africa,Nigeria,Abuja
+111,['America/Managua'],NI,North America,Nicaragua,Managua
+112,['Europe/Amsterdam'],NL,Europe,Kingdom of the Netherlands,Amsterdam
+113,['Europe/Oslo'],NO,Europe,Norway,Oslo
+114,['Asia/Katmandu'],NP,Asia,Nepal,Kathmandu
+115,['Pacific/Nauru'],NR,Oceania,Nauru,Yaren
+116,"['Pacific/Auckland', 'Pacific/Chatham']",NZ,Oceania,New Zealand,Wellington
+117,['Asia/Muscat'],OM,Asia,Oman,Muscat
+118,['America/Panama'],PA,North America,Panama,Panama City
+119,['America/Lima'],PE,South America,Peru,Lima
+120,['Pacific/Port_Moresby'],PG,Oceania,Papua New Guinea,Port Moresby
+121,['Asia/Manila'],PH,Asia,Philippines,Manila
+122,['Asia/Karachi'],PK,Asia,Pakistan,Islamabad
+123,['Europe/Warsaw'],PL,Europe,Poland,Warsaw
+124,"['Europe/Lisbon', 'Atlantic/Madeira', 'Atlantic/Azores']",PT,Europe,Portugal,Lisbon
+125,['Pacific/Palau'],PW,Oceania,Palau,Ngerulmud
+126,['America/Asuncion'],PY,South America,Paraguay,AsunciÃ³n
+127,['Asia/Qatar'],QA,Asia,Qatar,Doha
+128,['Europe/Bucharest'],RO,Europe,Romania,Bucharest
+129,"['Europe/Kaliningrad', 'Europe/Moscow', 'Europe/Volgograd', 'Europe/Samara', 'Asia/Yekaterinburg', 'Asia/Omsk', 'Asia/Novosibirsk', 'Asia/Krasnoyarsk', 'Asia/Irkutsk', 'Asia/Yakutsk', 'Asia/Vladivostok', 'Asia/Sakhalin', 'Asia/Magadan', 'Asia/Kamchatka', 'Asia/Anadyr']",RU,Europe,Russia,Moscow
+130,['Africa/Kigali'],RW,Africa,Rwanda,Kigali
+131,['Asia/Riyadh'],SA,Asia,Saudi Arabia,Riyadh
+132,['Pacific/Guadalcanal'],SB,Oceania,Solomon Islands,Honiara
+133,['Indian/Mahe'],SC,Africa,Seychelles,Victoria
+134,['Africa/Khartoum'],SD,Africa,Sudan,Khartoum
+135,['Europe/Stockholm'],SE,Europe,Sweden,Stockholm
+136,['Asia/Singapore'],SG,Asia,Singapore,Singapore
+137,['Europe/Ljubljana'],SI,Europe,Slovenia,Ljubljana
+138,['Europe/Bratislava'],SK,Europe,Slovakia,Bratislava
+139,['Africa/Freetown'],SL,Africa,Sierra Leone,Freetown
+140,['Europe/San_Marino'],SM,Europe,San Marino,San Marino
+141,['Africa/Dakar'],SN,Africa,Senegal,Dakar
+142,['Africa/Mogadishu'],SO,Africa,Somalia,Mogadishu
+143,['America/Paramaribo'],SR,South America,Suriname,Paramaribo
+144,['Africa/Sao_Tome'],ST,Africa,SÃ£o TomÃ© and PrÃ­ncipe,SÃ£o TomÃ©
+145,['Asia/Damascus'],SY,Asia,Syria,Damascus
+146,['Africa/Lome'],TG,Africa,Togo,LomÃ©
+147,['Asia/Bangkok'],TH,Asia,Thailand,Bangkok
+148,['Asia/Dushanbe'],TJ,Asia,Tajikistan,Dushanbe
+149,['Asia/Ashgabat'],TM,Asia,Turkmenistan,Ashgabat
+150,['Africa/Tunis'],TN,Africa,Tunisia,Tunis
+151,['Pacific/Tongatapu'],TO,Oceania,Tonga,NukuÊ»alofa
+152,['Europe/Istanbul'],TR,Asia,Turkey,Ankara
+153,['America/Port_of_Spain'],TT,North America,Trinidad and Tobago,Port of Spain
+154,['Pacific/Funafuti'],TV,Oceania,Tuvalu,Funafuti
+155,['Africa/Dar_es_Salaam'],TZ,Africa,Tanzania,Dodoma
+156,"['Europe/Kiev', 'Europe/Uzhgorod', 'Europe/Zaporozhye', 'Europe/Simferopol']",UA,Europe,Ukraine,Kyiv
+157,['Africa/Kampala'],UG,Africa,Uganda,Kampala
+158,"['America/New_York', 'America/Detroit', 'America/Kentucky/Louisville', 'America/Kentucky/Monticello', 'America/Indiana/Indianapolis', 'America/Indiana/Marengo', 'America/Indiana/Knox', 'America/Indiana/Vevay', 'America/Chicago', 'America/Indiana/Vincennes', 'America/Indiana/Petersburg', 'America/Menominee', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Denver', 'America/Boise', 'America/Shiprock', 'America/Phoenix', 'America/Los_Angeles', 'America/Anchorage', 'America/Juneau', 'America/Yakutat', 'America/Nome', 'America/Adak', 'Pacific/Honolulu']",US,North America,United States,"Washington, D.C."
+159,['America/Montevideo'],UY,South America,Uruguay,Montevideo
+160,"['Asia/Samarkand', 'Asia/Tashkent']",UZ,Asia,Uzbekistan,Tashkent
+161,['Europe/Vatican'],VA,Europe,Vatican City,Vatican City
+162,['America/Caracas'],VE,South America,Venezuela,Caracas
+163,['Asia/Saigon'],VN,Asia,Vietnam,Hanoi
+164,['Pacific/Efate'],VU,Oceania,Vanuatu,Port Vila
+165,['Asia/Aden'],YE,Asia,Yemen,Sana'a
+166,['Africa/Lusaka'],ZM,Africa,Zambia,Lusaka
+167,['Africa/Harare'],ZW,Africa,Zimbabwe,Harare
+168,['Africa/Algiers'],DZ,Africa,Algeria,Algiers
+169,['Europe/Sarajevo'],BA,Europe,Bosnia and Herzegovina,Sarajevo
+170,['Asia/Phnom_Penh'],KH,Asia,Cambodia,Phnom Penh
+171,['Africa/Bangui'],CF,Africa,Central African Republic,Bangui
+172,['Africa/Ndjamena'],TD,Africa,Chad,N'Djamena
+173,['Indian/Comoro'],KM,Africa,Comoros,Moroni
+174,['Europe/Zagreb'],HR,Europe,Croatia,Zagreb
+175,['Asia/Dili'],TL,Asia,East Timor,Dili
+176,['America/El_Salvador'],SV,North America,El Salvador,San Salvador
+177,['Africa/Malabo'],GQ,Africa,Equatorial Guinea,Malabo
+178,['America/Grenada'],GD,North America,Grenada,St. George's
+179,"['Asia/Almaty', 'Asia/Qyzylorda', 'Asia/Aqtobe', 'Asia/Aqtau', 'Asia/Oral']",KZ,Asia,Kazakhstan,Astana
+180,['Asia/Vientiane'],LA,Asia,Laos,Vientiane
+181,"['Pacific/Truk', 'Pacific/Ponape', 'Pacific/Kosrae']",FM,Oceania,Federated States of Micronesia,Palikir
+182,['Europe/Chisinau'],MD,Europe,Moldova,ChiÅinÄu
+183,['Europe/Monaco'],MC,Europe,Monaco,Monaco
+184,['Europe/Podgorica'],ME,Europe,Montenegro,Podgorica
+185,['Africa/Casablanca'],MA,Africa,Morocco,Rabat
+186,['America/St_Kitts'],KN,North America,Saint Kitts and Nevis,Basseterre
+187,['America/St_Lucia'],LC,North America,Saint Lucia,Castries
+188,['America/St_Vincent'],VC,North America,Saint Vincent and the Grenadines,Kingstown
+189,['Pacific/Apia'],WS,Oceania,Samoa,Apia
+190,['Europe/Belgrade'],RS,Europe,Serbia,Belgrade
+191,['Africa/Johannesburg'],ZA,Africa,South Africa,Pretoria
+192,"['Europe/Madrid', 'Africa/Ceuta', 'Atlantic/Canary']",ES,Europe,Spain,Madrid
+193,['Asia/Colombo'],LK,Asia,Sri Lanka,Sri Jayewardenepura Kotte
+194,['Africa/Mbabane'],SZ,Africa,Swaziland,Mbabane
+195,['Europe/Zurich'],CH,Europe,Switzerland,Bern
+196,['Asia/Dubai'],AE,Asia,United Arab Emirates,Abu Dhabi
+197,['Europe/London'],GB,Europe,United Kingdom,London
