@@ -1,5 +1,7 @@
 # Analysing factors behind smoking in the UK
 
+In this dataset, we aim to gather insights on relationships between different factors and smoking. 
+
 ```python
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
